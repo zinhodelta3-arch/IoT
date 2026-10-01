@@ -33,4 +33,7 @@ setInterval(() =>{
         digitalWrite(25, 1)
         digitalWrite(17, 0)
     }
+
+    
+    
 }, 100);
