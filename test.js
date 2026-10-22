@@ -1,5 +1,5 @@
-const btn = 25;
-const led = 27;
+const btn = 34;
+const led = 17;
 
 pinMode(led, "output");
 pinMode(btn, "input_pullup");
